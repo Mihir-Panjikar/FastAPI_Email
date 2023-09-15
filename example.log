@@ -1,0 +1,14 @@
+2023-09-15 07:33:35,235 DEBUG:Calling on_field_start with no data
+2023-09-15 07:33:35,235 DEBUG:Calling on_field_name with data[0:5]
+2023-09-15 07:33:35,235 DEBUG:Calling on_field_data with data[6:31]
+2023-09-15 07:33:35,235 DEBUG:Calling on_field_end with no data
+2023-09-15 07:33:35,235 DEBUG:Calling on_field_start with no data
+2023-09-15 07:33:35,236 DEBUG:Calling on_field_name with data[32:39]
+2023-09-15 07:33:35,236 DEBUG:Calling on_field_data with data[40:49]
+2023-09-15 07:33:35,236 DEBUG:Calling on_field_end with no data
+2023-09-15 07:33:35,236 DEBUG:Calling on_field_start with no data
+2023-09-15 07:33:35,236 DEBUG:Calling on_field_name with data[50:57]
+2023-09-15 07:33:35,236 DEBUG:Calling on_field_data with data[58:70]
+2023-09-15 07:33:35,236 DEBUG:Calling on_field_end with no data
+2023-09-15 07:33:35,236 DEBUG:Calling on_end with no data
+2023-09-15 07:33:39,196 INFO:status code: 200, detail: Email successfully sent
